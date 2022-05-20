@@ -1,0 +1,27 @@
+{
+  "name": "image-tiler",
+  "version": "1.0.0",
+  "description": "Tiles images for me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://revdancatt@github.com/revdancatt/image-tiler.git"
+  },
+  "author": "revdancatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revdancatt/image-tiler/issues"
+  },
+  "homepage": "https://github.com/revdancatt/image-tiler#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  },
+  "dependencies": {
+    "canvas": "^2.9.1",
+    "inquirer": "^8.2.4",
+    "save": "^2.5.0"
+  }
+}
