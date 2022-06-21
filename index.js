@@ -59,7 +59,7 @@ inquirer
     {
       type: Number,
       name: 'width',
-      message: 'Final iamge width'
+      message: 'Final image width'
     }
   ])
   .then((answers) => {
