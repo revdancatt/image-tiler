@@ -1,7 +1,7 @@
 {
   "name": "image-tiler",
   "version": "1.0.0",
-  "description": "Tiles images for me",
+  "description": "Tiles images for me, and other people",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
